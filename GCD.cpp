@@ -1,6 +1,6 @@
-/* Hünkar PURTUL */
+/* HÃ¼nkar PURTUL */
 /* 02.07.2015    */
-/* EUCLID OBEB ALGORITHM */
+/* EUCLID GCD ALGORITHM */
 
 #include <iostream>
 using namespace std;
@@ -37,7 +37,7 @@ int main()
             }        
     }
     
-    cout<<"obeb: "<< a;
+    cout<<"GCD: "<< a;
     
     system("pause");
     return 0;    
